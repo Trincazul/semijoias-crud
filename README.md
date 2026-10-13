@@ -33,11 +33,6 @@ Acesse:
 | PUT | /api/semijoias/{id} | Atualizar |
 | DELETE | /api/semijoias/{id} | Deletar |
 
-## App mobile (Flutter)
-
-O projeto inclui um app Flutter em `mobile/` que consome esta API.
-Veja `mobile/README.md` para instrucoes.
-
 ## Exemplo de payload (POST/PUT)
 
 ```json
